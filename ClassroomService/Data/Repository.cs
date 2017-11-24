@@ -1,7 +1,8 @@
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Treeloop.ClassroomService.WebService
+namespace ClassroomService.Data
 {
     public class Repository
     {
@@ -37,7 +38,7 @@ namespace Treeloop.ClassroomService.WebService
                 new Category(4, "Dairy Products", "Cheeses"),
                 new Category(5, "Grains/Cereals", "Breads, crackers, pasta, and cereal"),
                 new Category(6, "Meat/Poultry", "Prepared meats"),
-                new Category(7, "Produce", "Dried fruit and bean curd"), 
+                new Category(7, "Produce", "Dried fruit and bean curd"),
                 new Category(8, "Seafood", "Seaweed and fish")
             };
 

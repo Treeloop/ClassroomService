@@ -1,8 +1,10 @@
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using ClassroomService.Data;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Treeloop.ClassroomService.WebService
+namespace ClassroomService.Controllers
 {
     [Route("api")]
     public class ProductController : Controller

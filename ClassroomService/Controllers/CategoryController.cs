@@ -1,7 +1,9 @@
+﻿using System;
 using System.Collections.Generic;
+using ClassroomService.Data;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Treeloop.ClassroomService.WebService
+namespace ClassroomService.Controllers
 {
     public class CategoryController : Controller
     {

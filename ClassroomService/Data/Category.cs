@@ -1,4 +1,6 @@
-namespace Treeloop.ClassroomService.WebService
+﻿using System;
+
+namespace ClassroomService.Data
 {
     public class Category
     {
